@@ -1,0 +1,13 @@
+#!/bin/bash
+for ((i = 10  ; i > 0 ; i++)); do
+        pid=$(top | pgrep firefox)
+                if [ $pid > 0 ]; then
+                        echo "the firefox pid is: $pid"
+                        kill $pid
+                        echo "just killed Firefox"
+                        sleep 2s
+                else
+                        echo "no firefox process found"
+                        sleep 2s
+                fi
+done
