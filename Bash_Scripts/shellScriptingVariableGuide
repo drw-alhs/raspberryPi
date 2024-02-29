@@ -1,0 +1,6 @@
+#variable declaration, default is a string
+x = 1
+#Integer math (no decimal)
+let x=5+5
+#Use the variable by including 
+echo $x
