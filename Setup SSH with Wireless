@@ -1,0 +1,15 @@
+ Wireless Ad Hoc
+1.	Configure Wireless Hotspot
+a.	Click Wireless Icon
+b.	Advanced
+c.	Create Hotpot
+d.	Connect vis SSH(tricky part)
+Connecting vis SSH
+1.	Link: https://www.howtogeek.com/768053/how-to-ssh-into-your-raspberry-pi/
+2.	Run raspi-config as SU
+3.	Enable SSH (search a bit for it)
+4.	Edit sshd_config file to disallow root login
+5.	Adduser for connecting
+6.	Restart ssh
+7.	Connect with ssh user@ip.add.re.ss
+8.	Blood makes the grass grow, Huzzah! 
