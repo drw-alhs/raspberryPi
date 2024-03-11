@@ -13,3 +13,10 @@ Connecting vis SSH
 6.	Restart ssh
 7.	Connect with ssh user@ip.add.re.ss
 8.	Blood makes the grass grow, Huzzah! 
+/***************
+Install NginX
+***************/
+1.  URL: https://raspberrytips.com/nginx-on-raspberry-pi/
+2.  Create index.html
+3.  Verify that file works from your Pi and secondary Pi
+
