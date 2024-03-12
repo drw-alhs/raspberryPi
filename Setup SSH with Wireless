@@ -22,6 +22,6 @@ Install NginX with PHP & SQL
 /***************
 Install Server of Choice
 ***************/
-1. Wordpress
-2. Moodle
-3. Others?!?
+1. Wordpress (Every generic website on the Internet)
+2. Moodle (Blackboard/Canvas alternative)
+3. Postfix (email)
