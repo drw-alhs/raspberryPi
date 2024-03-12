@@ -14,9 +14,14 @@ Connecting vis SSH
 7.	Connect with ssh user@ip.add.re.ss
 8.	Blood makes the grass grow, Huzzah! 
 /***************
-Install NginX
+Install NginX with PHP & SQL
 ***************/
 1.  URL: https://raspberrytips.com/nginx-on-raspberry-pi/
 2.  Create index.html
 3.  Verify that file works from your Pi and secondary Pi
-
+/***************
+Install Server of Choice
+***************/
+1. Wordpress
+2. Moodle
+3. Others?!?
