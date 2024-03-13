@@ -1,0 +1,5 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-22-04
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Nginx-PHP-FPM-config-example
+https://wiki.crowncloud.net/?How_to_Install_PHP_8_3_on_Ubuntu_23_10
+
+
