@@ -19,6 +19,7 @@ Install NginX with PHP & SQL
 1.  URL: https://raspberrytips.com/nginx-on-raspberry-pi/
 2.  Create index.html
 3.  Verify that file works from your Pi and secondary Pi
+4. /var/www/html/
 /***************
 Install Server of Choice
 ***************/
