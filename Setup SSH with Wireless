@@ -27,3 +27,10 @@ Install Server of Choice
 3. Postfix (email)
 4. FTP Server
 5. Create a repository server
+***************/
+Installing PHP My Admin
+1. https://www.youtube.com/watch?v=crfAj9yay5w&ab_channel=TonyTeachesTech
+2. Before doing the install command, enter mysql and copy paste these two to avoid errors:
+CREATE USER 'phpmyadmin'@'localhost' IDENTIFIED WITH 'caching_sha2_password' BY 'Phpmy@dm1n';
+GRANT ALL PRIVILEGES ON phpmyadmin.* TO 'phpmyadmin'@'localhost' WITH GRANT OPTION;
+3. When you install php myadmin and it asks for a password write this "Phpmy@dm1n"
