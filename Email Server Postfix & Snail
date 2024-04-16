@@ -1,4 +1,6 @@
 Verified Sending Internal email only: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-20-04
 Almost verified: https://docs.gitlab.com/ee/administration/reply_by_email_postfix_setup.html
 
+Detailed Version #3: https://monovm.com/blog/how-to-run-a-linux-mail-server/#Mail-Server-Components
+
 make sure to create an alternative user before doing any of this!!!
